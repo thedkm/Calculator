@@ -16,7 +16,7 @@ float calculate(const char operation, const float left, const float right)
 
 int main()
 {
-    std::cout << "Enter your two numbers: \n\n";
+    std::cout << "Enter your Any two numbers : \n\n";
     float left, right;
     std::cin >> left >> right;
 
